@@ -1,5 +1,5 @@
 <web-app>
-	<display-name>Archetype Created Web Application</display-name>
+	<display-name>football.com</display-name>
 
 	<servlet>
 		<servlet-name>endtoend</servlet-name>
